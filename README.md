@@ -63,7 +63,7 @@ XXL-JOB 是一个开源且免费项目，其正在进行的开发完全得益于
     </td>
     <td>
         <a href="https://www.oudianyun.com/?source=x" title="" target="_blank" >
-            <img style="150px" src="http://www.xuxueli.com/page/static/images/logo_ody.png" >
+            <img width="150px" src="http://www.xuxueli.com/page/static/images/logo_ody.png" >
         </a>
     </td>
 </tr>
